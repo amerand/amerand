@@ -1,4 +1,9 @@
-### Hi there 👋
+I am an astronomer keen on sharing my experience and expertise via my codes! I thouroughly check my implementations for accuracy, but these are still research codes, and they may contain bugs: If you use my codes, please give me feedback (report issues, request features, etc)!
+
+- [SPIPS](https://github.com/amerand/SPIPS3) is to model spectroscopic, photometric and interferometric time series observations of Cepheids pulsating stars. It is used to derive fundamental parameters, and interpolated light curves. It is described in [Mérand et al. A&A 581-80 (2015)](https://www.aanda.org/articles/aa/pdf/2015/12/aa25954-15.pdf)
+- [CANDID](https://github.com/amerand/CANDID) aims at detecting faint companions around stars in interferometric data. I also gives you an upper limt for non-detection. The algorithms are described in [Gallenne, Mérand et al. A&A 579-68 (2015)](https://www.aanda.org/articles/aa/pdf/2015/07/aa25917-15.pdf)
+- [PMOIRED](https://github.com/amerand/PMOIRED) is an advanced tool to model interferometric data and help astrophyscal interpretation. The algorithms are described in [Mérand, SPIE Volume 12183, id. 121831N (2022)](https://ui.adsabs.harvard.edu/abs/2022SPIE12183E..1NM/abstract)
+
 
 <!--
 **amerand/amerand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
